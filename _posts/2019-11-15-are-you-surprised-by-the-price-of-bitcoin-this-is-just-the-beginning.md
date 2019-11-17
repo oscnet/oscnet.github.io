@@ -15,33 +15,34 @@ tags:
 [Bitcoin][7] is a very new technology, even though the concept that it brings to life is decades old. The _Double Spending Problem_ has been solved; this means that it is possible to use a digital certificate to stand in the place of money and be sure that no one else can spend that certificate other than you as long as you hold it. This is an unprecedented paradigm shift, the full implications of which are not yet completely understood, and for which the tools to exploit it do not yet exist to fully take advantage of this new idea.
 This new technology requires radical new thinking when it comes to developing businesses that are built upon it. In the same way that the pioneer providers of email didn't correctly understand the service they were selling for many years, new and correct thinking about Bitcoin is needed, and will emerge, so that it reaches its full potential and becomes ubiquitous.
 
-[比特币][7]从出现到现在虽然已经过了十多年，但是它背后所使用的技术，到今天仍然还是非常新颖。_双花问题_的解决，意味着可以使用“数字证书”来代替金钱，并且只要您持有证书，那么除了您以外，其它任何人都不能花这个钱。这是史无前例的范式转换，它所具有全部含义，还不能完全被人理解，并且尚没有可用的工具能充分利用这一新思想。
+[比特币][7]从出现到现在虽然已经过了十多年，但是它背后所使用的技术，到今天仍然还是非常新颖。_双花问题_的解决，意味着可以使用“数字证书”来代替金钱，并且只要您持有证书，那么除了您以外，其它任何人都不能花这个钱。这是史无前例的一个范式转换，它所蕴含的全部意义，还不能完全被人理解，并且目前也没有可用的工具能充分利用这一新思想。
 
-当开发基于这项新技术的企业应用时，我们需要激进的新思维。如同电子邮件的顶级供应商一样，他们并没能正确地理解他们卖了很多年的服务。有关比特币新的正确的思想是不可缺的，而且在未来它们还会进一步显现出来。使这项新技术能够充分发挥其潜力，并无处不在。
+当开发基于这项新技术的企业应用时，我们需要有激进的新思维。如同电子邮件的顶级供应商一样，虽然他们已经经营了很多年，但他们并没能正确地理解这项服务。有关比特币新的正确的思想是不可或缺的，而且在未来，这些新的思想还会进一步显现出来。使得这项新技术能够充分发挥其潜力，并且无处不在。
 
 ![原来的 Hotmail 界面][9]原来的 Hotmail 界面
 
 Hotmail used familiar technologies (the browser and email) to create a better way of accessing and delivering email; the idea of using an email client like Outlook Express has been superseded by web interfaces and email "in the cloud" that provides many advantages over a dedicated client with your mail in your own local storage.
 
-Hotmail 使用熟悉的技术（浏览器和电子邮件）访问和传输邮件的一种更好的方式；使用电子邮件客户端像Outlook Express中的想法已经被“云”，在自己的本地存储在一个专用的客户端提供了许多优势与您的邮件网络接口和电子邮件所取代。
+Hotmail 使用已经成熟的技术（浏览器和电子邮件）设计了一种访问和传输邮件的更佳模式；使用　Outlook Express　这样的邮件客户端想法已经　Web 界面所取代，与专用的客户端相比，“在云端”的电子邮件比使用将邮件保存在自己的本地存储中的专用客户端具有更多的优势。
 
 Bitcoin, which will completely transform the way you transfer money, needs to be understood on its own terms, and not just as an online form of money. Thinking about Bitcoin as money is as absurd as thinking about email as another form of sending letters by post; one not only replaces the other, but it profoundly changes the way people send and consume messages. These fundamental innovations are not simple substitutions or one dimensional improvements of existing ideas or services.
 
-比特币，这将完全改变你汇款的方式，需要在它自己的方式来理解，而不是仅仅为钱在线表格。关于比特币的思考金钱是荒谬的有关电子邮件的发送通过邮寄信件的另一种形式的思维;一个不仅取代了其他的，但它深刻地改变了人们发送和接收消息的方式。这些根本性的创新不是简单的替换或现有的想法或服务​​的一项维改进。
+比特币将彻底改变你转账的方式，它需要以自己的方式被理解，而不仅仅是作为一种在线货币形式。将比特币视为货币，就像将电子邮件视为另一种邮寄信件的形式一样荒谬;一个不仅取代了另一个，而且深刻地改变了人们发送和消费信息的方式。这些基本的创新并不是简单的替换或对现有的想法或服务进行一维的改进。
 
 As I have explained previously, [**Bitcoin is not money**][10]. Bitcoin is [**_a protocol_**][11]. If you treat it in this way, with the correct assumptions, you can put Bitcoin in a proper context, which will allow you to make rational suggestions about the sorts of services that might be profitable based on it.
 
-正如我前面所解释的，[**比特币不是钱**] [10]。比特币[** _协议_ **] [11]。如果以这种方式对待它，用正确的假设，你可以把比特币在适当的情况下，这将让你做出对各种各样的服务，在此基础上，可能是有利可图的合理化建议。
+正如我之前所解释的，[**比特币不是货币**][10]。比特币是[一种协议][11]。如果你这样看待，加上正确的假设，你可以把比特币放在一个适当的环境中，这将允许你对基于它的可能盈利的各类服务提出合理的建议。
 
-![][12]
 ![][13]
 Every part of Bitcoin is text. It is always text, and never at any point ceases to be text. This is a fact, and as text, it is protected under the free speech provisions of the constitutions of civilized nations with guaranteed, irrevocable rights.
 
-比特币的每一个部分是文本。它始终是文字，从来没有在任何时候不再是文本。这是一个事实，作为文本，它是在文明国家有保证的，不可撤销的权利，宪法的言论自由条款的保护。
+比特币的每个部分都是文本。它始终是文本，在任何时候都是文本。这是事实，作为文本，它受到文明国家宪法中言论自由条款的保护，这些宪法保证了不可撤销的权利。
+它受到文明国家宪法中言论自由条款的保护，享有有保障的、不可撤销的权利。
 
 If Bitcoin is a protocol and not money, then setting up currency exchanges that mimic real world money, stock and commodity exchanges to trade in it should not be the sole means of discovering its price. You would not set up an "Email Exchange" to discover the value of email services, and the same thing applies to Bitcoin.
 
 如果比特币是一个协议，而不是金钱，然后设立货币兑换模仿真实世界的货币，股票和商品的交流，贸易，它不应该是发现其价格的唯一手段。你不会设立“电子邮件交流”发现的电子邮件服务的价值，同样的道理也适用于比特币。
+如果比特币是一种协议，而不是货币，那么，建立模仿现实世界货币、股票和大宗商品交易所进行比特币交易的货币交易所，不应该是发现比特币价格的唯一手段。你不会设置一个“电子邮件交换”来发现电子邮件服务的价值，同样的事情也适用于比特币。
 
 Staying with this train of thought, when you type in an email on your Gmail account, you are inputting your 'letter'. You press send, it goes through your ISP, over the internets, into the ISP of your recipient and then it is outputted on the screen of your recipient's machine, which can be literally any device, from a wristwatch to a laptop a smartphone or a desktop.
 
