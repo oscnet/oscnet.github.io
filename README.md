@@ -1,11 +1,15 @@
 oscar Blog
 ========
 
+Fork From  https://github.com/Huxpro/huxpro.github.io
+
+
 ## install and run 
 ```
 brew install ruby
+;add to .zshrc  export PATH="/usr/local/opt/ruby/bin:/usr/local/lib/ruby/gems/2.6.0/bin:$PATH"
 gem install bundler jekyll
-gem which jekyll  ; add /usr/local/lib/ruby/gems/2.6.0/bin to path
+gem which jekyll 
 gem install jekyll-paginate 
 npm install
 npm run start
